@@ -1,12 +1,8 @@
-import sys
+
 import streamlit as st
 import os
 from groq import Groq
 
-import sys
-import streamlit as st
-
-st.write(sys.version)
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
 
 st.title("🤖 AI Chatbot")
