@@ -8,6 +8,17 @@ This is an AI-powered chatbot built using:
 
 ---
 
+## 🤖 AI Chatbot App
+
+🚀 Live Demo:  
+https://xamhykeqdvjdsj9ppt4anm.streamlit.app/
+
+This is an AI chatbot built using:
+- Streamlit
+- Groq API
+
+---
+
 ## 🚀 Features
 
 - Real-time chatbot responses
@@ -21,13 +32,4 @@ This is an AI-powered chatbot built using:
 
 ```bash
 pip install -r requirements.txt
-
-## 🤖 AI Chatbot App
-
-🚀 Live Demo:  
-https://xamhykeqdvjdsj9ppt4anm.streamlit.app/
-
-This is an AI chatbot built using:
-- Streamlit
-- Groq API
 
